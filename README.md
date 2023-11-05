@@ -36,8 +36,10 @@ This project provides a comprehensive analysis of Formula 1 (F1) driver race his
 2. Explore different sheets and visualizations using interactive filters and parameters.
 3. Gain valuable insights into F1 driver race histories, race statistics, and more.
 
-## Output
-
+## Tool Overview
+<img src="Tool Output/Driver's Statistcs.png" alt="Tool">
+<img src="Tool Output/Driver's Race Statistics.png" alt="Tool">
+<img src="Tool Output/Overall Race Statistics.png" alt="Tool">
 
 ## Feedback and Contributers
 
