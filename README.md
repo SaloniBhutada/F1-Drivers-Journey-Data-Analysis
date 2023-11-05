@@ -41,7 +41,7 @@ This project provides a comprehensive analysis of Formula 1 (F1) driver race his
 <img src="Tool Output/Driver's Race Statistics.png" alt="Tool">
 <img src="Tool Output/Overall Race Statistics.png" alt="Tool">
 
-## Feedback and Contributers
+## Feedback and Contributors
 
 - We welcome feedback and contributions to improve this project. Please feel free to open issues or make suggestions.
   Contributors:
